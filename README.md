@@ -16,6 +16,11 @@ my_list
   - list1
   - list2
   - list3
+
+
+- [x] #739
+- [x]  daily check in :white_check_mark:
+- [x]  going to clg and returning :school:
   
  ![nature](https://images.unsplash.com/photo-1471879832106-c7ab9e0cee23?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max)
  :shipit:
@@ -30,3 +35,10 @@ s.no|name|branch|year
 ----|----|------|----
 1|kushmitha|IT|2nd year
 2|honey|IT|1st year
+
+mysublists
+    -sublist1
+      -sublist2
+        -sublist3
+        
+![spongebob](https://thumbs.gfycat.com/NegativeSomberCow-max-1mb.gif)
